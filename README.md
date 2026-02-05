@@ -62,17 +62,41 @@ The workflow consists of the following main components:
 
 ## 📸 Project Screenshots
 
-### 🖥️ n8n Workflow
-![Workflow](./workflow.png)
+## 📸 Project Screenshots
 
-### 📊 Google Sheets Integration
-![Google Sheets](./updated%20excel%20file%20for%20unanswered%20queries.png)
+### 1️⃣ 🖥️ Working of n8n Automation
+<p align="center">
+  <img src="https://github.com/Riteshhh08/Customer-Support-chatbot/blob/main/Customer-Support-Automation-main/working%20of%20n8n.png" width="100%" />
+</p>
 
-### ⚙️ Execution History
-![Executions](./execution.png)
+---
 
-### 🧠 AI Agent Configuration
-![AI Agent](./working%20of%20n8n.png)
+### 2️⃣ ⚙️ Workflow Structure
+<p align="center">
+  <img src="https://github.com/Riteshhh08/Customer-Support-chatbot/blob/main/Customer-Support-Automation-main/workflow.png" width="100%" />
+</p>
+
+---
+
+### 3️⃣ 📊 Updated Excel File (Unanswered Queries)
+<p align="center">
+  <img src="https://github.com/Riteshhh08/Customer-Support-chatbot/blob/main/Customer-Support-Automation-main/updated%20excel%20file%20for%20unanswered%20queries.png" width="100%" />
+</p>
+
+---
+
+### 4️⃣ 🧠 Append / Update Configuration
+<p align="center">
+  <img src="https://github.com/Riteshhh08/Customer-Support-chatbot/blob/main/Customer-Support-Automation-main/append%20now%20update.png" width="100%" />
+</p>
+
+---
+
+### 5️⃣ 📈 Execution History
+<p align="center">
+  <img src="https://github.com/Riteshhh08/Customer-Support-chatbot/blob/main/Customer-Support-Automation-main/working%20of%20n8n.png" width="100%" />
+</p>
+
 
 > ⚠️ Make sure image filenames match exactly with your project folder.
 
